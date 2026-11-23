@@ -1,0 +1,319 @@
+1.7815 	ERROR 	Plugin `psychopy-cedrus` entry point requires module `psychopy_cedrus`, but it cannot be imported.
+13.2466 	INFO 	Loaded monitor calibration from ['2026_09_07 09:35']
+14.1586 	WARNING 	User requested fullscreen with size [1024  768], but screen is actually [1440, 900]. Using actual size
+14.3307 	INFO 	Using renderer 'Apple M1' for graphics
+14.3307 	INFO 	OpenGL version supported by driver is 2..
+14.3885 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=True, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x17e7b6e10>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x17e77ded0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=True, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x17e8bc450>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(0.0), np.float64(0.0)], screen=0, size=array([2880, 1800]), stencilBits=8, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+14.3886 	EXP 	window1: backgroundImage = ''
+14.3886 	EXP 	window1: backgroundFit = 'none'
+14.6053 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+14.6053 	EXP 	window1: recordFrameIntervals = False
+14.8424 	EXP 	window1: recordFrameIntervals = True
+16.5090 	EXP 	window1: recordFrameIntervals = False
+16.5090 	EXP 	Screen (0) actual frame rate measured at 60.00Hz
+17.4062 	INFO 	keyboard.Keyboard is using ptb backend.
+17.4063 	EXP 	Solo_Project_Serial_Positioning_Effect: status = STARTED
+17.4788 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+17.4793 	EXP 	Created word_display = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.08, italic=False, languageStyle='LTR', name='word_display', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='', units='height', win=Window(...), wrapWidth=1)
+17.4812 	EXP 	Created Fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='Fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+17.4839 	EXP 	Created Recall_instruction = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05), italic=False, languageStyle='LTR', name='Recall_instruction', opacity=1, ori=0.0, pos=array([0. , 0.3]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+0.0279 	EXP 	typed_recall: autoLog = True
+0.0448 	INFO 	Keyboard events cleared
+0.0448 	EXP 	text: autoDraw = True
+1.8574 	EXP 	Device response: <KeyPress from None: t=1.833976416666701, value=space, duration=None>
+3.0606 	EXP 	Imported words.xlsx as conditions, 15 conditions, 2 params
+3.0632 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'list_id': 1.0, 'word': 'lemon', 'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+3.0654 	EXP 	Device response: <KeyPress from None: t=1.833976416666701, value=space, duration=0.03023599999869475>
+3.0742 	DATA 	Keypress: space
+3.0947 	EXP 	text: autoDraw = False
+3.0947 	EXP 	word_display: height = np.float64(0.08)
+3.0947 	EXP 	word_display: height = np.float64(0.08)
+3.0947 	EXP 	word_display: height = np.float64(0.08)
+3.0947 	EXP 	word_display: text = 'lemon'
+3.0947 	EXP 	word_display: autoDraw = True
+3.3612 	EXP 	Fixation: autoDraw = True
+3.8611 	EXP 	Fixation: autoDraw = False
+3.8612 	EXP 	New trial (rep=0, index=1): <Trial 1 (1 in rep 0) data={'list_id': 1.0, 'word': 'rocket', 'thisN': 1, 'thisTrialN': 1, 'thisRepN': 0}>
+3.8779 	EXP 	word_display: autoDraw = False
+3.8779 	EXP 	Fixation: autoDraw = False
+3.8779 	EXP 	word_display: height = np.float64(0.08)
+3.8779 	EXP 	word_display: height = np.float64(0.08)
+3.8779 	EXP 	word_display: height = np.float64(0.08)
+3.8779 	EXP 	word_display: text = 'rocket'
+3.8779 	EXP 	word_display: autoDraw = True
+5.3615 	EXP 	Fixation: autoDraw = True
+5.3782 	EXP 	word_display: autoDraw = False
+5.8449 	EXP 	New trial (rep=0, index=2): <Trial 2 (2 in rep 0) data={'list_id': 1.0, 'word': 'violin', 'thisN': 2, 'thisTrialN': 2, 'thisRepN': 0}>
+5.8615 	EXP 	Fixation: autoDraw = False
+5.8615 	EXP 	word_display: autoDraw = False
+5.8615 	EXP 	Fixation: autoDraw = False
+5.8615 	EXP 	word_display: height = np.float64(0.08)
+5.8615 	EXP 	word_display: height = np.float64(0.08)
+5.8615 	EXP 	word_display: height = np.float64(0.08)
+5.8615 	EXP 	word_display: text = 'violin'
+5.8615 	EXP 	word_display: autoDraw = True
+7.3613 	EXP 	word_display: autoDraw = False
+7.3613 	EXP 	Fixation: autoDraw = True
+7.8447 	EXP 	New trial (rep=0, index=3): <Trial 3 (3 in rep 0) data={'list_id': 1.0, 'word': 'camel', 'thisN': 3, 'thisTrialN': 3, 'thisRepN': 0}>
+7.8613 	EXP 	Fixation: autoDraw = False
+7.8613 	EXP 	word_display: autoDraw = False
+7.8613 	EXP 	Fixation: autoDraw = False
+7.8613 	EXP 	word_display: height = np.float64(0.08)
+7.8613 	EXP 	word_display: height = np.float64(0.08)
+7.8613 	EXP 	word_display: height = np.float64(0.08)
+7.8613 	EXP 	word_display: text = 'camel'
+7.8613 	EXP 	word_display: autoDraw = True
+9.3613 	EXP 	word_display: autoDraw = False
+9.3613 	EXP 	Fixation: autoDraw = True
+9.8446 	EXP 	New trial (rep=0, index=4): <Trial 4 (4 in rep 0) data={'list_id': 1.0, 'word': 'bridge', 'thisN': 4, 'thisTrialN': 4, 'thisRepN': 0}>
+9.8612 	EXP 	Fixation: autoDraw = False
+9.8612 	EXP 	word_display: autoDraw = False
+9.8612 	EXP 	Fixation: autoDraw = False
+9.8612 	EXP 	word_display: height = np.float64(0.08)
+9.8612 	EXP 	word_display: height = np.float64(0.08)
+9.8612 	EXP 	word_display: height = np.float64(0.08)
+9.8612 	EXP 	word_display: text = 'bridge'
+9.8612 	EXP 	word_display: autoDraw = True
+11.3612 	EXP 	word_display: autoDraw = False
+11.3612 	EXP 	Fixation: autoDraw = True
+11.8447 	EXP 	New trial (rep=0, index=5): <Trial 5 (5 in rep 0) data={'list_id': 2.0, 'word': 'helmet', 'thisN': 5, 'thisTrialN': 5, 'thisRepN': 0}>
+11.8613 	EXP 	Fixation: autoDraw = False
+11.8613 	EXP 	word_display: autoDraw = False
+11.8613 	EXP 	Fixation: autoDraw = False
+11.8613 	EXP 	word_display: height = np.float64(0.08)
+11.8613 	EXP 	word_display: height = np.float64(0.08)
+11.8613 	EXP 	word_display: height = np.float64(0.08)
+11.8613 	EXP 	word_display: text = 'helmet'
+11.8613 	EXP 	word_display: autoDraw = True
+13.3613 	EXP 	word_display: autoDraw = False
+13.3613 	EXP 	Fixation: autoDraw = True
+13.8451 	EXP 	New trial (rep=0, index=6): <Trial 6 (6 in rep 0) data={'list_id': 2.0, 'word': 'pencil', 'thisN': 6, 'thisTrialN': 6, 'thisRepN': 0}>
+13.8613 	EXP 	Fixation: autoDraw = False
+13.8613 	EXP 	word_display: autoDraw = False
+13.8613 	EXP 	Fixation: autoDraw = False
+13.8613 	EXP 	word_display: height = np.float64(0.08)
+13.8613 	EXP 	word_display: height = np.float64(0.08)
+13.8613 	EXP 	word_display: height = np.float64(0.08)
+13.8613 	EXP 	word_display: text = 'pencil'
+13.8613 	EXP 	word_display: autoDraw = True
+15.3613 	EXP 	word_display: autoDraw = False
+15.3613 	EXP 	Fixation: autoDraw = True
+15.8452 	EXP 	New trial (rep=0, index=7): <Trial 7 (7 in rep 0) data={'list_id': 2.0, 'word': 'tunnel', 'thisN': 7, 'thisTrialN': 7, 'thisRepN': 0}>
+15.8614 	EXP 	Fixation: autoDraw = False
+15.8614 	EXP 	word_display: autoDraw = False
+15.8614 	EXP 	Fixation: autoDraw = False
+15.8614 	EXP 	word_display: height = np.float64(0.08)
+15.8614 	EXP 	word_display: height = np.float64(0.08)
+15.8614 	EXP 	word_display: height = np.float64(0.08)
+15.8614 	EXP 	word_display: text = 'tunnel'
+15.8614 	EXP 	word_display: autoDraw = True
+17.3614 	EXP 	word_display: autoDraw = False
+17.3614 	EXP 	Fixation: autoDraw = True
+17.8448 	EXP 	New trial (rep=0, index=8): <Trial 8 (8 in rep 0) data={'list_id': 2.0, 'word': 'pocket', 'thisN': 8, 'thisTrialN': 8, 'thisRepN': 0}>
+17.8613 	EXP 	Fixation: autoDraw = False
+17.8613 	EXP 	word_display: autoDraw = False
+17.8613 	EXP 	Fixation: autoDraw = False
+17.8613 	EXP 	word_display: height = np.float64(0.08)
+17.8613 	EXP 	word_display: height = np.float64(0.08)
+17.8613 	EXP 	word_display: height = np.float64(0.08)
+17.8613 	EXP 	word_display: text = 'pocket'
+17.8613 	EXP 	word_display: autoDraw = True
+19.3613 	EXP 	word_display: autoDraw = False
+19.3613 	EXP 	Fixation: autoDraw = True
+19.8448 	EXP 	New trial (rep=0, index=9): <Trial 9 (9 in rep 0) data={'list_id': 2.0, 'word': 'anchor', 'thisN': 9, 'thisTrialN': 9, 'thisRepN': 0}>
+19.8613 	EXP 	Fixation: autoDraw = False
+19.8613 	EXP 	word_display: autoDraw = False
+19.8613 	EXP 	Fixation: autoDraw = False
+19.8613 	EXP 	word_display: height = np.float64(0.08)
+19.8613 	EXP 	word_display: height = np.float64(0.08)
+19.8613 	EXP 	word_display: height = np.float64(0.08)
+19.8613 	EXP 	word_display: text = 'anchor'
+19.8613 	EXP 	word_display: autoDraw = True
+21.3614 	EXP 	word_display: autoDraw = False
+21.3614 	EXP 	Fixation: autoDraw = True
+21.8455 	EXP 	New trial (rep=0, index=10): <Trial 10 (10 in rep 0) data={'list_id': 3.0, 'word': 'cactus', 'thisN': 10, 'thisTrialN': 10, 'thisRepN': 0}>
+21.8615 	EXP 	Fixation: autoDraw = False
+21.8615 	EXP 	word_display: autoDraw = False
+21.8615 	EXP 	Fixation: autoDraw = False
+21.8615 	EXP 	word_display: height = np.float64(0.08)
+21.8615 	EXP 	word_display: height = np.float64(0.08)
+21.8615 	EXP 	word_display: height = np.float64(0.08)
+21.8615 	EXP 	word_display: text = 'cactus'
+21.8615 	EXP 	word_display: autoDraw = True
+23.3613 	EXP 	word_display: autoDraw = False
+23.3613 	EXP 	Fixation: autoDraw = True
+23.8449 	EXP 	New trial (rep=0, index=11): <Trial 11 (11 in rep 0) data={'list_id': 3.0, 'word': 'hammer', 'thisN': 11, 'thisTrialN': 11, 'thisRepN': 0}>
+23.8614 	EXP 	Fixation: autoDraw = False
+23.8614 	EXP 	word_display: autoDraw = False
+23.8614 	EXP 	Fixation: autoDraw = False
+23.8614 	EXP 	word_display: height = np.float64(0.08)
+23.8614 	EXP 	word_display: height = np.float64(0.08)
+23.8614 	EXP 	word_display: height = np.float64(0.08)
+23.8614 	EXP 	word_display: text = 'hammer'
+23.8614 	EXP 	word_display: autoDraw = True
+25.3613 	EXP 	word_display: autoDraw = False
+25.3613 	EXP 	Fixation: autoDraw = True
+25.8450 	EXP 	New trial (rep=0, index=12): <Trial 12 (12 in rep 0) data={'list_id': 3.0, 'word': 'marble', 'thisN': 12, 'thisTrialN': 12, 'thisRepN': 0}>
+25.8613 	EXP 	Fixation: autoDraw = False
+25.8613 	EXP 	word_display: autoDraw = False
+25.8613 	EXP 	Fixation: autoDraw = False
+25.8613 	EXP 	word_display: height = np.float64(0.08)
+25.8613 	EXP 	word_display: height = np.float64(0.08)
+25.8613 	EXP 	word_display: height = np.float64(0.08)
+25.8613 	EXP 	word_display: text = 'marble'
+25.8613 	EXP 	word_display: autoDraw = True
+27.3619 	EXP 	word_display: autoDraw = False
+27.3619 	EXP 	Fixation: autoDraw = True
+27.8448 	EXP 	New trial (rep=0, index=13): <Trial 13 (13 in rep 0) data={'list_id': 3.0, 'word': 'candle', 'thisN': 13, 'thisTrialN': 13, 'thisRepN': 0}>
+27.8615 	EXP 	Fixation: autoDraw = False
+27.8615 	EXP 	word_display: autoDraw = False
+27.8615 	EXP 	Fixation: autoDraw = False
+27.8615 	EXP 	word_display: height = np.float64(0.08)
+27.8615 	EXP 	word_display: height = np.float64(0.08)
+27.8615 	EXP 	word_display: height = np.float64(0.08)
+27.8615 	EXP 	word_display: text = 'candle'
+27.8615 	EXP 	word_display: autoDraw = True
+29.3616 	EXP 	word_display: autoDraw = False
+29.3616 	EXP 	Fixation: autoDraw = True
+29.8451 	EXP 	New trial (rep=0, index=14): <Trial 14 (14 in rep 0) data={'list_id': 3.0, 'word': 'window', 'thisN': 14, 'thisTrialN': 14, 'thisRepN': 0}>
+29.8622 	EXP 	Fixation: autoDraw = False
+29.8622 	EXP 	word_display: autoDraw = False
+29.8622 	EXP 	Fixation: autoDraw = False
+29.8622 	EXP 	word_display: height = np.float64(0.08)
+29.8622 	EXP 	word_display: height = np.float64(0.08)
+29.8622 	EXP 	word_display: height = np.float64(0.08)
+29.8622 	EXP 	word_display: text = 'window'
+29.8622 	EXP 	word_display: autoDraw = True
+31.3614 	EXP 	word_display: autoDraw = False
+31.3614 	EXP 	Fixation: autoDraw = True
+31.8615 	INFO 	Keyboard events cleared
+31.8615 	EXP 	Fixation: autoDraw = False
+31.8615 	EXP 	word_display: autoDraw = False
+31.8615 	EXP 	Fixation: autoDraw = False
+31.8615 	EXP 	Recall_instruction: autoDraw = True
+31.8615 	EXP 	typed_recall: autoDraw = True
+34.0957 	EXP 	Device response: <KeyPress from None: t=34.09458650000306, value=l, duration=None>
+34.1171 	DATA 	Keypress: l
+34.1951 	EXP 	Device response: <KeyPress from None: t=34.09458650000306, value=l, duration=0.08622204166749725>
+34.2600 	DATA 	Keypress: e
+34.2633 	EXP 	Device response: <KeyPress from None: t=34.25452325000515, value=e, duration=None>
+34.3450 	EXP 	Device response: <KeyPress from None: t=34.25452325000515, value=e, duration=0.07631449999462347>
+34.9793 	DATA 	Keypress: m
+34.9819 	EXP 	Device response: <KeyPress from None: t=34.971519041668216, value=m, duration=None>
+35.0619 	EXP 	Device response: <KeyPress from None: t=34.971519041668216, value=m, duration=0.08033658333442872>
+35.1972 	DATA 	Keypress: o
+35.2000 	EXP 	Device response: <KeyPress from None: t=35.18853429166484, value=o, duration=None>
+35.2785 	EXP 	Device response: <KeyPress from None: t=35.18853429166484, value=o, duration=0.07624470833980013>
+35.4093 	DATA 	Keypress: n
+35.4124 	EXP 	Device response: <KeyPress from None: t=35.4024419999987, value=n, duration=None>
+35.4957 	DATA 	Keypress: space
+35.4991 	EXP 	Device response: <KeyPress from None: t=35.49041654166649, value=space, duration=None>
+35.5454 	EXP 	Device response: <KeyPress from None: t=35.4024419999987, value=n, duration=0.13611183333705412>
+35.6452 	EXP 	Device response: <KeyPress from None: t=35.49041654166649, value=space, duration=0.14041200000065146>
+37.3704 	DATA 	Keypress: c
+37.3786 	EXP 	Device response: <KeyPress from None: t=37.36157654166891, value=c, duration=None>
+37.4749 	DATA 	Keypress: a
+37.4785 	EXP 	Device response: <KeyPress from None: t=37.465623291667725, value=a, duration=None>
+37.5117 	EXP 	Device response: <KeyPress from None: t=37.36157654166891, value=c, duration=0.14397712500067428>
+37.5952 	EXP 	Device response: <KeyPress from None: t=37.465623291667725, value=a, duration=0.1162372916660388>
+37.6264 	DATA 	Keypress: m
+37.6296 	EXP 	Device response: <KeyPress from None: t=37.62055804167176, value=m, duration=None>
+37.7119 	EXP 	Device response: <KeyPress from None: t=37.62055804167176, value=m, duration=0.07618395832832903>
+38.0918 	DATA 	Keypress: e
+38.0954 	EXP 	Device response: <KeyPress from None: t=38.08641004166566, value=e, duration=None>
+38.1854 	DATA 	Keypress: l
+38.1953 	EXP 	Device response: <KeyPress from None: t=38.08641004166566, value=e, duration=0.09218525000324007>
+38.1953 	EXP 	Device response: <KeyPress from None: t=38.18249858333729, value=l, duration=None>
+38.2717 	DATA 	Keypress: space
+38.2786 	EXP 	Device response: <KeyPress from None: t=38.26646466666716, value=space, duration=None>
+38.3118 	EXP 	Device response: <KeyPress from None: t=38.18249858333729, value=l, duration=0.12398312499863096>
+38.3785 	EXP 	Device response: <KeyPress from None: t=38.26646466666716, value=space, duration=0.10429712499899324>
+38.5473 	DATA 	Keypress: b
+38.5505 	EXP 	Device response: <KeyPress from None: t=38.538469333332614, value=b, duration=None>
+38.6285 	EXP 	Device response: <KeyPress from None: t=38.538469333332614, value=b, duration=0.08032437500514789>
+38.6524 	DATA 	Keypress: r
+38.6618 	EXP 	Device response: <KeyPress from None: t=38.64739233333239, value=r, duration=None>
+38.7284 	EXP 	Device response: <KeyPress from None: t=38.64739233333239, value=r, duration=0.08053487500001211>
+38.7784 	EXP 	Device response: <KeyPress from None: t=38.77345158333628, value=i, duration=None>
+38.7850 	DATA 	Keypress: i
+38.8452 	EXP 	Device response: <KeyPress from None: t=38.77345158333628, value=i, duration=0.060325416663545184>
+38.8720 	DATA 	Keypress: d
+38.8786 	EXP 	Device response: <KeyPress from None: t=38.86351241666853, value=d, duration=None>
+38.9785 	EXP 	Device response: <KeyPress from None: t=38.86351241666853, value=d, duration=0.10031729166803416>
+38.9963 	DATA 	Keypress: g
+38.9989 	EXP 	Device response: <KeyPress from None: t=38.98639025000011, value=g, duration=None>
+39.0794 	EXP 	Device response: <KeyPress from None: t=38.98639025000011, value=g, duration=0.080299916669901>
+39.1081 	DATA 	Keypress: e
+39.1120 	EXP 	Device response: <KeyPress from None: t=39.10338754166878, value=e, duration=None>
+39.1784 	EXP 	Device response: <KeyPress from None: t=39.10338754166878, value=e, duration=0.07237108333356446>
+39.2451 	EXP 	Device response: <KeyPress from None: t=39.239442041667644, value=space, duration=None>
+39.2481 	DATA 	Keypress: space
+39.3285 	EXP 	Device response: <KeyPress from None: t=39.239442041667644, value=space, duration=0.08030266666901298>
+39.6248 	DATA 	Keypress: h
+39.6285 	EXP 	Device response: <KeyPress from None: t=39.61940779166616, value=h, duration=None>
+39.7118 	EXP 	Device response: <KeyPress from None: t=39.61940779166616, value=h, duration=0.08437350000167498>
+39.7225 	DATA 	Keypress: a
+39.7284 	EXP 	Device response: <KeyPress from None: t=39.71740337500523, value=a, duration=None>
+39.8117 	EXP 	Device response: <KeyPress from None: t=39.71740337500523, value=a, duration=0.08835141666349955>
+39.8496 	DATA 	Keypress: m
+39.8618 	EXP 	Device response: <KeyPress from None: t=39.845449208332866, value=m, duration=None>
+39.9118 	EXP 	Device response: <KeyPress from None: t=39.845449208332866, value=m, duration=0.05628508333757054>
+39.9728 	DATA 	Keypress: m
+39.9785 	EXP 	Device response: <KeyPress from None: t=39.96155891667149, value=m, duration=None>
+40.0451 	EXP 	Device response: <KeyPress from None: t=39.96155891667149, value=m, duration=0.07591620832681656>
+40.0501 	DATA 	Keypress: e
+40.0617 	EXP 	Device response: <KeyPress from None: t=40.04547579166683, value=e, duration=None>
+40.1450 	EXP 	Device response: <KeyPress from None: t=40.04547579166683, value=e, duration=0.0882535833370639>
+40.2117 	EXP 	Device response: <KeyPress from None: t=40.20641387499927, value=r, duration=None>
+40.2152 	DATA 	Keypress: r
+40.2744 	DATA 	Keypress: space
+40.2790 	EXP 	Device response: <KeyPress from None: t=40.270338041671494, value=space, duration=None>
+40.2790 	EXP 	Device response: <KeyPress from None: t=40.20641387499927, value=r, duration=0.07206608333217446>
+40.3617 	EXP 	Device response: <KeyPress from None: t=40.270338041671494, value=space, duration=0.08450212499883492>
+40.6085 	DATA 	Keypress: m
+40.6120 	EXP 	Device response: <KeyPress from None: t=40.60349758333177, value=m, duration=None>
+40.6784 	EXP 	Device response: <KeyPress from None: t=40.60349758333177, value=m, duration=0.06801075000112178>
+40.6874 	DATA 	Keypress: a
+40.6953 	EXP 	Device response: <KeyPress from None: t=40.68336133333651, value=a, duration=None>
+40.7617 	EXP 	Device response: <KeyPress from None: t=40.68336133333651, value=a, duration=0.06432895833131624>
+40.8285 	EXP 	Device response: <KeyPress from None: t=40.82632100000046, value=r, duration=None>
+40.8325 	DATA 	Keypress: r
+40.9285 	EXP 	Device response: <KeyPress from None: t=40.82632100000046, value=r, duration=0.09245737500168616>
+40.9451 	EXP 	Device response: <KeyPress from None: t=40.94144687500375, value=b, duration=None>
+40.9489 	DATA 	Keypress: b
+41.0285 	EXP 	Device response: <KeyPress from None: t=40.94144687500375, value=b, duration=0.07226499999524094>
+41.1619 	EXP 	Device response: <KeyPress from None: t=41.15946058333793, value=l, duration=None>
+41.1672 	DATA 	Keypress: l
+41.2286 	EXP 	Device response: <KeyPress from None: t=41.15946058333793, value=l, duration=0.06830862499919022>
+41.2451 	EXP 	Device response: <KeyPress from None: t=41.24450304167112, value=e, duration=None>
+41.2501 	DATA 	Keypress: e
+41.3286 	EXP 	Device response: <KeyPress from None: t=41.24450304167112, value=e, duration=0.07617858333105687>
+43.3953 	EXP 	Device response: <KeyPress from None: t=43.3903484166658, value=space, duration=None>
+43.4001 	DATA 	Keypress: space
+43.5118 	EXP 	Device response: <KeyPress from None: t=43.3903484166658, value=space, duration=0.10837758333946113>
+43.7284 	EXP 	Device response: <KeyPress from None: t=43.72633362500346, value=p, duration=None>
+43.7332 	DATA 	Keypress: p
+43.8452 	EXP 	Device response: <KeyPress from None: t=43.72633362500346, value=p, duration=0.10428745832905406>
+43.9456 	EXP 	Device response: <KeyPress from None: t=43.93932870833669, value=o, duration=None>
+43.9500 	DATA 	Keypress: o
+44.0118 	EXP 	Device response: <KeyPress from None: t=43.93932870833669, value=o, duration=0.05640362499980256>
+44.0330 	DATA 	Keypress: c
+44.0455 	EXP 	Device response: <KeyPress from None: t=44.0284127499981, value=c, duration=None>
+44.1453 	EXP 	Device response: <KeyPress from None: t=44.144396000003326, value=k, duration=None>
+44.1532 	DATA 	Keypress: k
+44.1620 	EXP 	Device response: <KeyPress from None: t=44.0284127499981, value=c, duration=0.12387420833692886>
+44.2451 	EXP 	Device response: <KeyPress from None: t=44.144396000003326, value=k, duration=0.08441783332818886>
+44.2830 	DATA 	Keypress: e
+44.2952 	EXP 	Device response: <KeyPress from None: t=44.27853083333321, value=e, duration=None>
+44.3619 	EXP 	Device response: <KeyPress from None: t=44.27853083333321, value=e, duration=0.07621016666962532>
+44.4784 	EXP 	Device response: <KeyPress from None: t=44.47737166666775, value=t, duration=None>
+44.4859 	DATA 	Keypress: t
+44.5786 	EXP 	Device response: <KeyPress from None: t=44.47737166666775, value=t, duration=0.09625858333311044>
+45.5119 	EXP 	Device response: <KeyPress from None: t=45.51142933333176, value=return, duration=None>
+45.5173 	DATA 	Keypress: return
+45.5282 	EXP 	Recall_instruction: autoDraw = False
+45.5282 	EXP 	typed_recall: autoDraw = False
+45.5283 	EXP 	Solo_Project_Serial_Positioning_Effect: status = STOPPED
+45.5331 	INFO 	saved data to '/Users/siddharthapradhan/Desktop/SOLO PROJECT LAB/data/5_Solo_Project_Serial_Positioning_Effect_2026-11-23_20h34.09.932.csv'
+45.5374 	INFO 	saved data to /Users/siddharthapradhan/Desktop/SOLO PROJECT LAB/data/5_Solo_Project_Serial_Positioning_Effect_2026-11-23_20h34.09.932.psydat
+45.7085 	INFO 	Stopping keyboard key buffers.
